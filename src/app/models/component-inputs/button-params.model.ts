@@ -1,4 +1,4 @@
-export interface ButtonInput {
+export interface ButtonParams {
 	label?: string;
 	onClick: () => void;
 }
